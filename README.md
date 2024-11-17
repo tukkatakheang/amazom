@@ -1,0 +1,2 @@
+# amazom
+sell and buy
